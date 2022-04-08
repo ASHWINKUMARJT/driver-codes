@@ -1,7 +1,10 @@
 # Python Driver Code
 
 def solve(n: int) -> str:
-  # Your code goes here
+  int num;
+  cin>>num;
+  
+  vector<int
   # n is the given input
   return "Special"
 
